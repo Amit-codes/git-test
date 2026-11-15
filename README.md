@@ -1,4 +1,4 @@
 # git-test
-learning git &amp; git hub
+learning git &amp; github
 
 this is created by Amit 
