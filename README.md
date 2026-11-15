@@ -1,4 +1,5 @@
 # git-test
-leaning git &amp; git hub
+learning git &amp; git hub
 
 this is created by Amit 
+Author -Amit Kumar 
